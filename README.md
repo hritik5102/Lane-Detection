@@ -1,7 +1,7 @@
 # Lane-Detection
 Detecting a lane of the road for wireless car with help of contours , hough line , canny edge detector in image processing 
 
-# Thier are 5 window 
+# Their are 5 window 
 1) edge detector
 2) Trackbar 
 3) Mask
