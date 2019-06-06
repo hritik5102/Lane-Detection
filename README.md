@@ -6,4 +6,4 @@ Detecting a lane of the road for wireless car with help of contours , hough line
 2) Trackbar 
 3) Mask
 4) thresold
-5) original video with lane detected
+5) original video with lane detection
